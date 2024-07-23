@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0xC3aa276973424892D78F90FC29C86f5429c01516
+0xc3aa276973424892d78f90fc29c86f5429c01516
 ```
 
 ## Steps
