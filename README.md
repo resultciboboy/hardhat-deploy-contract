@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x9385d4df1b88c48ad96e9761c99d8b26da74852e
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/resultciboboy/hardhat-deploy-contract.git
 ```
 
 ```
